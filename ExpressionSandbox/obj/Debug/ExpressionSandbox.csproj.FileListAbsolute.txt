@@ -1,0 +1,8 @@
+C:\Users\brents\src\ExpressionSandbox\ExpressionSandbox\bin\Debug\ExpressionSandbox.dll
+C:\Users\brents\src\ExpressionSandbox\ExpressionSandbox\bin\Debug\ExpressionSandbox.pdb
+C:\Users\brents\src\ExpressionSandbox\ExpressionSandbox\bin\Debug\nunit.framework.dll
+C:\Users\brents\src\ExpressionSandbox\ExpressionSandbox\bin\Debug\Shouldly.dll
+C:\Users\brents\src\ExpressionSandbox\ExpressionSandbox\bin\Debug\nunit.framework.xml
+C:\Users\brents\src\ExpressionSandbox\ExpressionSandbox\obj\Debug\ExpressionSandbox.csprojResolveAssemblyReference.cache
+C:\Users\brents\src\ExpressionSandbox\ExpressionSandbox\obj\Debug\ExpressionSandbox.dll
+C:\Users\brents\src\ExpressionSandbox\ExpressionSandbox\obj\Debug\ExpressionSandbox.pdb
